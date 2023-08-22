@@ -1,0 +1,10 @@
+e1d21f32d77c6429f29546123bce7d4c  usr/share/doc/libdata-dump-perl/changelog.Debian.gz
+c86d420ed79e8dad27a70d7734235744  usr/share/doc/libdata-dump-perl/changelog.gz
+aff0f4e956d6085209b9a738b21dde52  usr/share/doc/libdata-dump-perl/copyright
+c74caa0591bf2e4d325fb0b76c987f2e  usr/share/man/man3/Data::Dump.3pm.gz
+2e360090b9d9761191c188f09cacb919  usr/share/man/man3/Data::Dump::Filtered.3pm.gz
+25461cdaa9fa8ea978a09cb732704954  usr/share/man/man3/Data::Dump::Trace.3pm.gz
+9f4b6b94c93c756e3ff5973fa65bee0b  usr/share/perl5/Data/Dump.pm
+fbb3d30900cf03f0252655d693e8dfbc  usr/share/perl5/Data/Dump/FilterContext.pm
+2a80bc39f073ed0534a610e1359cb95e  usr/share/perl5/Data/Dump/Filtered.pm
+00c089a8ad2aa0f584418c10b46aedfd  usr/share/perl5/Data/Dump/Trace.pm

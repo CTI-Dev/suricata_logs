@@ -1,0 +1,7 @@
+b67bbcb8fcf7ed715c025669bbaa9fba  usr/bin/batcat
+009f313c2ad27b9122f9485841a264c7  usr/share/doc/bat/README.Debian
+fad43cc87a72efe69c3a59d693e6d01f  usr/share/doc/bat/changelog.Debian.amd64.gz
+eb7c5462c25f620248fc6691642289be  usr/share/doc/bat/changelog.Debian.gz
+9d9789188fe9b9f1064b2719c9ffbdb3  usr/share/doc/bat/copyright
+20385fc4add0cb8a3c0ae1504f094477  usr/share/lintian/overrides/bat
+f5b87f581dc761b050eaeba244fae752  usr/share/man/man1/batcat.1.gz

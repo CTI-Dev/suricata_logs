@@ -1,0 +1,264 @@
+Package: droplet-agent-keyring
+Architecture: amd64
+Version: 1.0.0
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 1
+Filename: pool/main/main/d/droplet-agent-keyring/droplet-agent-keyring_1.0.0_amd64.deb
+Size: 2328
+MD5sum: 8edcf0cb13db2ff254095af995240834
+SHA1: 698c240686c4e8e56dfcd69f1fc4ac36224a7968
+SHA256: 8b5228a71f22e245c712c3da839c31a7a74a51b75e8552e12fbe10ffe0e2b55c
+SHA512: 0d5ea4257e6a4ab92479a1ff8932323fc55ab60cc68f8e6ee484e18a6fad73c23ecba3d1a80af35ffe40b67dec11929941c4c5e52bb0ddfbb4c742c28b77490a
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent Keyring
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent-keyring
+Architecture: amd64
+Version: 2.0.0
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 2
+Filename: pool/main/main/d/droplet-agent-keyring/droplet-agent-keyring_2.0.0_amd64.deb
+Size: 3390
+MD5sum: e1913b91b1edeff8c02b99480cda4b25
+SHA1: 719d4f9fd74ec48fd7ccb9b073a4cbab898addd2
+SHA256: cfcb82feee7c343ca1ef60d7416db501ff340f7a46856d931b747cf4f9bdf403
+SHA512: 8b4d490c5b2bb636705c2d944aacd6a161b7928c3e37f23a0ff3d7f082d18f0b2a19f65b5be733b21018ce70667234036f771378196c2bb7bc18676f16fee44b
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent Keyring
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 0.9.4
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5389
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_0.9.4_amd64.deb
+Size: 2205254
+MD5sum: 058cd23f047a0551bbd7b9b969d2c2db
+SHA1: 0ddc83844cc4d372b738d9b84737c3610cd115e9
+SHA256: d9369b36ff60452f28c692882694b374e81d010fa478c6c832d1d71632c775d3
+SHA512: 54091433b8f0287d94e637d4ede179b3b3886660bbb401aa9e77a3a1f79310b30a6d9f3fbb93f8f9fc5d6caf19aefc1e41dc044e6ec7cf643251a434976c8758
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 0.9.5
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5389
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_0.9.5_amd64.deb
+Size: 2205280
+MD5sum: 5da97bf75252c32a7811aead6f09c4c6
+SHA1: f6dd71042c0b1ae320c64a4cb47f674a49d00b8d
+SHA256: aa0405d282ec741f717d83c82e0c83369d59210fff3ee3dce6f655d6ba49ee73
+SHA512: aaf9fdf9a39c497a6f6e15ffd5b115f0ae047e05c147deb8dc5ab8406c76c9f24eb1867890b793cdf783d9df9c14bbed7f1c68e48eddd509822b65f50d396ac7
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 0.9.6
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5393
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_0.9.6_amd64.deb
+Size: 2205870
+MD5sum: 36d9465cf08f0adc84bd5f79078db422
+SHA1: a101436869eb8f087081749a1820941df6f79d44
+SHA256: d7cb54ad9688788efefdb58be19fe72dc6accd3a99cab09bc3d4a195bd62e57d
+SHA512: 11f944cfda406b94014a8cc222dcd712452476c530e077f3d624459ae0025d071fdeaead71bc4dc43386f96df01ca3256b59142fcc6070441b64e09c58cf92f5
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 1.0.0
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5385
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_1.0.0_amd64.deb
+Size: 2205346
+MD5sum: 4207b52630bedb87a7142c88980fdca9
+SHA1: fa25ab77cff79417740fef4622bd564a57d92f6b
+SHA256: c83050618fdf323f2bcd7aec5c29e055a023ef7af5af0d2868a232cfaedb55af
+SHA512: 34282fcbbedf9e242f5427ee80e6444951a5b440e8293c0697da05aa9a2d9e6bedb2c7c9d4802c08d68885e1f4efedbf4d6595f84220246c1b6f37d848ed26b4
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 1.1.0
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5437
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_1.1.0_amd64.deb
+Size: 2223876
+MD5sum: e88ac95ddb413d4bc50cea493b8a0688
+SHA1: c1c2fd37b20deb7538783d707a0b0582c1b4500a
+SHA256: fe6423f951b015625db4b3d2cf3f3bcc999035925f07860a6b682beb6e3700db
+SHA512: 0e083980bb0224233f43495bbc0feffa5540d3a6af7db92e3d3352d482d91aa9575b35928fa193727e07e247b441c614ee94e785054004821015470beba557c1
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 1.1.1
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5440
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_1.1.1_amd64.deb
+Size: 2224908
+MD5sum: e8b859044a6259a252aaa6a638b84d3a
+SHA1: 8ad9de0826f8b765d58b57e2dacd67c0b021f321
+SHA256: f2720b6ca5e16490fbce0ea525370d974a2b58a8c7d6c91d3e74ca66e584f14e
+SHA512: 13d3c7fcb2ad86c64f07c2dedaf542780588ef676e9a8a435a5122cfaf06a54ff9e62839287e7a34bd0331858ed27ca77a64d9c9c91cd8a3b8491e20adca66a6
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 1.2.0
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5476
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_1.2.0_amd64.deb
+Size: 2237780
+MD5sum: 0ed29ac31fd58891959818786a5eed5a
+SHA1: 2847629e0f129b2292d051b490c21e3728aaf191
+SHA256: 1290abaace5b5faa211186c71ceffdda7beb9b677208acd26c001d1651a5074c
+SHA512: 9d9ce9aeb85f57e56fcde55587b3e3cd65ae73817b308d09ffe87d5c0bbec1588e9a980e4f08ab37bd5f8dc85160d37f54e15f7cfa1813f4b44f03c388540537
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 1.2.1
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5476
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_1.2.1_amd64.deb
+Size: 2237340
+MD5sum: 5e753a578d51679184ad2e3e3bb59e4c
+SHA1: 7e926b62146237ec1f0ae40f3a01e36f3f048c20
+SHA256: 2ffab073e3de9c93b36b1014b74a084818d48053993d83c101f70d3b3e5965ea
+SHA512: e0ecc9f167e7f44e55e587f8b597e85c029d75d680974141099fbeacdaedc0894dcb209d5dd60fc091c0abc29ba66f5dd53907d8a48210663df9e10e233185bc
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 1.2.2
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5204
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_1.2.2_amd64.deb
+Size: 2285594
+MD5sum: 053538309ddd4363f95ea2f772d2c643
+SHA1: 6000b2d0ec855e06c9f76debe534992a68f03bba
+SHA256: 5eaf1f67838f00753c61e35b7aff2187d9541b1014aeb599cf5283c73e31f64d
+SHA512: 5ebb3e761cfa9f288ffde9c8268c9e07b959c894a38069e7e591e069c02de4d8fd6b58a8c9d8bb0add77346851c5a402402fa765029045ac5cc8837081f89342
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 1.2.3
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5208
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_1.2.3_amd64.deb
+Size: 2285422
+MD5sum: ecbb6f6e7d4bf97e19b720fcc31cf936
+SHA1: 177d3570feddd7841d1c147122f105c54a600ee3
+SHA256: b84c258afaacb4aa9bfb5b2c977e077e9a87205ab73c0bcc5a8ea4fc51a0bcc1
+SHA512: 40ebf58b9d022b398442e76465ced392a7ba22b6107321a0f1a6cf67913e6563bf7c8e5f6ef8c04224955a8adfaed27814989febac8e351192896a487e4a514a
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 1.2.4
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5216
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_1.2.4_amd64.deb
+Size: 2287354
+MD5sum: e0232030b5065e2d1ae639643fa56d77
+SHA1: 73b1fea86d3fecf84582a437157a18afd6d83820
+SHA256: 00330abb5e5c211c0f26cd628e4da3dedacd0d80db127f10390670fc450fe29c
+SHA512: 1e4c5aacbd0df6dac5f6c8917f214ae0650cc65c4c6676b291938f5effed754a75d7abd51821f5f9a3a3b952b7b8eecf6c68690decd0bc9135e1c792697a03b0
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+
+Package: droplet-agent
+Architecture: amd64
+Version: 1.2.5
+Priority: extra
+Section: default
+Maintainer: DigitalOcean Droplet Engineering
+Installed-Size: 5200
+Depends: cron
+Filename: pool/main/main/d/droplet-agent/droplet-agent_1.2.5_amd64.deb
+Size: 2285962
+MD5sum: cf8d65dd8a6e1283d7cea1ddc2170501
+SHA1: d35f612c173c47e02705a050ef478965c24c1eda
+SHA256: 973353ba35a24dfde6a5b09cf77e8a54890ddb6d00490efc613d45d9bfa01d4e
+SHA512: a7bc2117e71c7f4448954f9033192fe9d37c7f4f294179a10f9ecb62411a621a2eb5c9b05e0a1803fc4586d47d6caabdf848bf127b6254952f7b640cd071343c
+Homepage: https://github.com/digitalocean/droplet-agent
+Description: DigitalOcean Droplet Agent
+License: apache-2.0
+Vendor: DigitalOcean
+

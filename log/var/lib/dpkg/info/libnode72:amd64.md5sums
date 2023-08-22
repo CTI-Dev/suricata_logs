@@ -1,0 +1,5 @@
+adbb2885ff314887c9801ea773f7245f  usr/lib/x86_64-linux-gnu/libnode.so.72
+a91b287ffe75a9b69a988a16c9994d2b  usr/share/doc/libnode72/changelog.Debian.gz
+69a591753d50e12b34289da921f96111  usr/share/doc/libnode72/changelog.gz
+fd299c5087c989e6312c6415218073d5  usr/share/doc/libnode72/copyright
+7a4b362e0e53fea1bbdbf955383fcd21  usr/share/systemtap/tapset/node.stp

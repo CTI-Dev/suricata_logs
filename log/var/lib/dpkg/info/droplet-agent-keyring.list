@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/droplet-agent-keyring
+/usr/share/doc/droplet-agent-keyring/changelog.gz
+/usr/share/keyrings
+/usr/share/keyrings/droplet-agent-keyring.gpg

@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/bin
+/usr/bin/batcat
+/usr/share
+/usr/share/doc
+/usr/share/doc/bat
+/usr/share/doc/bat/README.Debian
+/usr/share/doc/bat/changelog.Debian.amd64.gz
+/usr/share/doc/bat/changelog.Debian.gz
+/usr/share/doc/bat/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/bat
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/batcat.1.gz

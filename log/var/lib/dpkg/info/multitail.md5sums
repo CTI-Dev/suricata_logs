@@ -1,0 +1,8 @@
+375b3ab4a0888c761e4cc983493d7d4f  usr/bin/multitail
+d8aae2eecba7f98c7b3dbe44b778ea20  usr/share/doc/multitail/changelog.Debian.gz
+4c99ae9eff12bd991d6cbf22ad5e5df5  usr/share/doc/multitail/copyright
+2fc6b45ac596acc929670bae9c268bdc  usr/share/doc/multitail/examples/colors-example.pl
+09c3e3ae23176c1a0283e75380724996  usr/share/doc/multitail/examples/colors-example.sh
+9f64050ef0b17f10ff92d2940afc67f5  usr/share/doc/multitail/examples/convert-geoip.pl
+f1d724c8d43a09c7d40eebaae59591be  usr/share/doc/multitail/examples/convert-simple.pl
+b5ed5d6176bdec32e0bb5f86a80f7f29  usr/share/man/man1/multitail.1.gz

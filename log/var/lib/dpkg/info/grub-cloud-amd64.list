@@ -1,0 +1,10 @@
+/.
+/etc
+/etc/default
+/etc/default/grub
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/grub-cloud-amd64
+/usr/share/doc/grub-cloud-amd64/changelog.gz
+/usr/share/doc/grub-cloud-amd64/copyright

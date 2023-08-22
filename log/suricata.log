@@ -1,0 +1,27 @@
+22/8/2023 -- 03:32:45 - <Notice> - This is Suricata version 6.0.12 RELEASE running in SYSTEM mode
+22/8/2023 -- 03:32:45 - <Info> - CPUs/cores online: 4
+22/8/2023 -- 03:32:45 - <Info> - Setting engine mode to IDS mode by default
+22/8/2023 -- 03:32:46 - <Info> - Found an MTU of 1500 for 'eth0'
+22/8/2023 -- 03:32:46 - <Info> - Found an MTU of 1500 for 'eth0'
+22/8/2023 -- 03:32:46 - <Info> - dropped the caps for main thread
+22/8/2023 -- 03:32:46 - <Info> - eve-log output device (regular) initialized: eve.json
+22/8/2023 -- 03:32:46 - <Info> - Going to log the md5 sum of email body
+22/8/2023 -- 03:32:46 - <Info> - Going to log the md5 sum of email subject
+22/8/2023 -- 03:32:46 - <Info> - DNP3 log sub-module initialized.
+22/8/2023 -- 03:32:46 - <Info> - DNP3 log sub-module initialized.
+22/8/2023 -- 03:32:53 - <Info> - Rule with ID 2026440 is bidirectional, but source and destination are the same, treating the rule as unidirectional
+22/8/2023 -- 03:33:12 - <Info> - 1 rule files processed. 44435 rules successfully loaded, 0 rules failed
+22/8/2023 -- 03:33:13 - <Info> - Threshold config parsed: 0 rule(s) found
+22/8/2023 -- 03:33:14 - <Info> - 44450 signatures processed. 1397 are IP-only rules, 8798 are inspecting packet payload, 33846 inspect application layer, 113 are decoder event only
+22/8/2023 -- 03:33:14 - <Warning> - [ERRCODE: SC_WARN_FLOWBIT(306)] - flowbit 'ET.ButterflyJoin' is checked but not set. Checked in 2011296 and 0 other sigs
+22/8/2023 -- 03:33:14 - <Warning> - [ERRCODE: SC_WARN_FLOWBIT(306)] - flowbit 'ET.Netwire.HB.1' is checked but not set. Checked in 2018282 and 0 other sigs
+22/8/2023 -- 03:33:14 - <Warning> - [ERRCODE: SC_WARN_FLOWBIT(306)] - flowbit 'ET.GenericPhish_Adobe' is checked but not set. Checked in 2023048 and 0 other sigs
+22/8/2023 -- 03:33:14 - <Warning> - [ERRCODE: SC_WARN_FLOWBIT(306)] - flowbit 'is_ssh_client_kex' is checked but not set. Checked in 2001977 and 1 other sigs
+22/8/2023 -- 03:33:50 - <Info> - Going to use 4 thread(s)
+22/8/2023 -- 03:33:50 - <Info> - Using unix socket file '/var/run/suricata/suricata-command.socket'
+22/8/2023 -- 03:33:50 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+22/8/2023 -- 03:33:50 - <Info> - Using BPF 'not (host sicherheitstacho.eu or community.sicherheitstacho.eu or listbot.sicherheitstacho.eu) and not (host rules.emergingthreats.net or rules.emergingthreatspro.com) and not (host deb.debian.org) and not (host ghcr.io) and not (host index.docker.io or docker.io) and not (tcp port 64305)' on iface 'eth0'
+22/8/2023 -- 03:33:50 - <Info> - Using BPF 'not (host sicherheitstacho.eu or community.sicherheitstacho.eu or listbot.sicherheitstacho.eu) and not (host rules.emergingthreats.net or rules.emergingthreatspro.com) and not (host deb.debian.org) and not (host ghcr.io) and not (host index.docker.io or docker.io) and not (tcp port 64305)' on iface 'eth0'
+22/8/2023 -- 03:33:50 - <Info> - Using BPF 'not (host sicherheitstacho.eu or community.sicherheitstacho.eu or listbot.sicherheitstacho.eu) and not (host rules.emergingthreats.net or rules.emergingthreatspro.com) and not (host deb.debian.org) and not (host ghcr.io) and not (host index.docker.io or docker.io) and not (tcp port 64305)' on iface 'eth0'
+22/8/2023 -- 03:33:50 - <Info> - Using BPF 'not (host sicherheitstacho.eu or community.sicherheitstacho.eu or listbot.sicherheitstacho.eu) and not (host rules.emergingthreats.net or rules.emergingthreatspro.com) and not (host deb.debian.org) and not (host ghcr.io) and not (host index.docker.io or docker.io) and not (tcp port 64305)' on iface 'eth0'
+22/8/2023 -- 03:33:50 - <Info> - All AFP capture threads are running.

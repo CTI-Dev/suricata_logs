@@ -1,0 +1,12 @@
+67b6ab288543cd1a5c081c18c14ae3d9  usr/bin/cloud-localds
+ffb1fcfc469c39585440897d4d0f6bb3  usr/bin/mount-image-callback
+0336f71b66eb4974a920f37e75271c75  usr/bin/resize-part-image
+2726a5009f5b3c135a55dc8098606086  usr/bin/ubuntu-cloudimg-query
+22ecc679e03e3a15205784c9c9daeb5d  usr/bin/write-mime-multipart
+c33fbed41f6195b3cd81e54f860532a4  usr/share/doc/cloud-image-utils/NEWS.Debian.gz
+488ece72bcf28ee2491cab75689e582e  usr/share/doc/cloud-image-utils/changelog.Debian.gz
+f5c1f0eac51803e9ab8c9b05f186d6ec  usr/share/doc/cloud-image-utils/changelog.gz
+3edfd58dd225946ebfd9d5d2534690cb  usr/share/doc/cloud-image-utils/copyright
+27ef1e0cb8478aa22f45b6de2b95a5ed  usr/share/man/man1/cloud-localds.1.gz
+c991f949ed1a47eade4923e66e5fd823  usr/share/man/man1/resize-part-image.1.gz
+45877adbda8fe478ff7458cf4d36ea8a  usr/share/man/man1/write-mime-multipart.1.gz

@@ -1,0 +1,6 @@
+4a778f6779402a4d938c94491137f4eb  usr/lib/shim/BOOTX64.CSV
+b3e9dbf4225242d1f18cb2f0b1a6ecd2  usr/lib/shim/fbx64.efi
+3074e3fef5e0c1545aba6b67af176c70  usr/lib/shim/mmx64.efi
+4a856eb3c4a6f3234c718fd51fe959e5  usr/lib/shim/shimx64.efi
+01060b15e835f501ea398d28a0e48f40  usr/share/doc/shim-unsigned/changelog.Debian.gz
+d3f9cd59ff3c910165878ec0ee1bde8a  usr/share/doc/shim-unsigned/copyright

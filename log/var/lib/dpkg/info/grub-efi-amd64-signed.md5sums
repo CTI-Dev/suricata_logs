@@ -1,0 +1,7 @@
+60985f487201715718f9ccaafbace195  usr/lib/grub/x86_64-efi-signed/gcdx64.efi.signed
+9a1346be2eb3c13e81911e619afdaf31  usr/lib/grub/x86_64-efi-signed/grubnetx64-installer.efi.signed
+58af9603770b7bdfc22e4206991f4c4c  usr/lib/grub/x86_64-efi-signed/grubnetx64.efi.signed
+8af5de47338c2010714ee8dbd7bc5c2f  usr/lib/grub/x86_64-efi-signed/grubx64.efi.signed
+67d8b58b1d5ecf8a3ffc5327a4a57599  usr/share/bug/grub-efi-amd64-signed/control
+851efd070c2d410b7c1c0b6081035018  usr/share/doc/grub-efi-amd64-signed/changelog.gz
+a915ffe83d50bfbcbf960a165cb97e85  usr/share/doc/grub-efi-amd64-signed/copyright

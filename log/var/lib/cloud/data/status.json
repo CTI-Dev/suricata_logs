@@ -1,0 +1,31 @@
+{
+ "v1": {
+  "datasource": "DataSourceConfigDrive [net,ver=2][source=/dev/vdb]",
+  "init": {
+   "errors": [],
+   "finished": 1692615789.2626107,
+   "start": 1692615788.4973001
+  },
+  "init-local": {
+   "errors": [],
+   "finished": 1692615787.671221,
+   "start": 1692615787.3694437
+  },
+  "modules-config": {
+   "errors": [],
+   "finished": 1692615790.4101164,
+   "start": 1692615790.2684817
+  },
+  "modules-final": {
+   "errors": [],
+   "finished": 1692615824.7422829,
+   "start": 1692615824.5481484
+  },
+  "modules-init": {
+   "errors": [],
+   "finished": null,
+   "start": null
+  },
+  "stage": null
+ }
+}

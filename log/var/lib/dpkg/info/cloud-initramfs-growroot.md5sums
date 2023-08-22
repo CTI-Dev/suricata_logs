@@ -1,0 +1,4 @@
+459800451058fb20331cf0ae14f8ecf0  usr/share/doc/cloud-initramfs-growroot/changelog.gz
+42e42630bc57d2ad43d6e68cb5acb0e9  usr/share/doc/cloud-initramfs-growroot/copyright
+0c65db9f0035f472579fef445ef2a5c3  usr/share/initramfs-tools/hooks/growroot
+3af1e9f87b81b7fad9bd958ab8699046  usr/share/initramfs-tools/scripts/local-bottom/growroot

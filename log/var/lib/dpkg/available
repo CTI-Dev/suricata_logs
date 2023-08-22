@@ -1,0 +1,28 @@
+Package: cockpit-pcp
+Maintainer: Dummy Example <dummy@example.org>
+Architecture: amd64
+Version: 0~
+Description: dummy package record
+ A record is needed to put a package on hold, so here it is.
+
+Package: exim4-base
+Maintainer: Dummy Example <dummy@example.org>
+Architecture: amd64
+Version: 0~
+Description: dummy package record
+ A record is needed to put a package on hold, so here it is.
+
+Package: mailutils
+Maintainer: Dummy Example <dummy@example.org>
+Architecture: amd64
+Version: 0~
+Description: dummy package record
+ A record is needed to put a package on hold, so here it is.
+
+Package: pcp
+Maintainer: Dummy Example <dummy@example.org>
+Architecture: amd64
+Version: 0~
+Description: dummy package record
+ A record is needed to put a package on hold, so here it is.
+

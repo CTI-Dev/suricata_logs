@@ -1,0 +1,7 @@
+libbind9 9.16.42-Debian bind9-libs (>= 1:9.16.42)
+libdns 9.16.42-Debian bind9-libs (>= 1:9.16.42)
+libirs 9.16.42-Debian bind9-libs (>= 1:9.16.42)
+libisc 9.16.42-Debian bind9-libs (>= 1:9.16.42)
+libisccc 9.16.42-Debian bind9-libs (>= 1:9.16.42)
+libisccfg 9.16.42-Debian bind9-libs (>= 1:9.16.42)
+libns 9.16.42-Debian bind9-libs (>= 1:9.16.42)

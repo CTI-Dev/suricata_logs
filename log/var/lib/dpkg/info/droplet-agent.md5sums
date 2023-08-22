@@ -1,0 +1,6 @@
+26275f354ebac9f78ad813a0c43ae5b8  etc/init/droplet-agent.conf
+a501b6eddb3135b996e0b3c6406b19a7  etc/systemd/system/droplet-agent.service
+133bc6c8ab488121cfa734193bcf3334  opt/digitalocean/bin/droplet-agent
+1498184a152cb63f68d31a22470e2684  opt/digitalocean/droplet-agent/scripts/update.sh
+00aad94f7d81bffaa20e5f5024b00b51  usr/share/doc/droplet-agent/changelog.Debian.gz
+17ff8235e59cb95c35ad32805046af45  usr/share/doc/droplet-agent/changelog.gz

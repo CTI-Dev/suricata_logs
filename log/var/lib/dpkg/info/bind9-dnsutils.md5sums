@@ -1,0 +1,15 @@
+748cf6b4f80dd6ad009e1c5d5cec904d  usr/bin/delv
+da1c4af96b587162b5623ee587b5a6b4  usr/bin/dig
+377315c69c71daea91c650c77765ab9c  usr/bin/dnstap-read
+f726c09f5386b279d161c5d70581586d  usr/bin/mdig
+f2ce977673dff03bce7f3a28fb69e2e1  usr/bin/nslookup
+e4aff69632870805cad002c0a16e0a96  usr/bin/nsupdate
+e0bcdff8ce8b5a36ed940f8b9e1990cb  usr/share/doc/bind9-dnsutils/changelog.Debian.gz
+8ae4c410aa5f0d5581ac6b3e49ba03ee  usr/share/doc/bind9-dnsutils/changelog.gz
+87d36bb6374958d7dfd3db0dcc7a6253  usr/share/doc/bind9-dnsutils/copyright
+2fbc9404b0d9f62485eb38fd52fa56e9  usr/share/man/man1/delv.1.gz
+e4fa691f9f26b39f5e0ff96cfc50d0e8  usr/share/man/man1/dig.1.gz
+767260206b87a1f8afafcd9b3e4d7d01  usr/share/man/man1/dnstap-read.1.gz
+81e05adb463d44e1bd7ae879d61fda1f  usr/share/man/man1/mdig.1.gz
+64d6249c75590c5b4c8d1d8838d7796c  usr/share/man/man1/nslookup.1.gz
+00f2c6e77c39127becdc2bf1acc3e453  usr/share/man/man1/nsupdate.1.gz

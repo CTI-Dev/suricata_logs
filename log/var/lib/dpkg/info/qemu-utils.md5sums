@@ -1,0 +1,12 @@
+27636ac70328687b901c66dc1bd9a7ec  usr/bin/qemu-img
+5522f78e7d445d1e5c2874c81b9ea513  usr/bin/qemu-io
+8d8d2d9d432073e42dbb5d1cad6f3cd9  usr/bin/qemu-nbd
+559fb2feedf11b5e0a6e6a343ebb2d79  usr/sbin/qemu-make-debian-root
+8d4085e37d032045e93476ac1a791330  usr/share/doc/qemu-utils/NEWS.Debian.gz
+47f6597c884a437dc4f65f95376a94b6  usr/share/doc/qemu-utils/README.Debian
+1c9c3663f6d93834cf2583ebe8bfad79  usr/share/doc/qemu-utils/changelog.Debian.gz
+d9cefe8260949104e3a13af15375fb0b  usr/share/doc/qemu-utils/copyright
+cc772e7a2ad4b5151b7d3885a571633f  usr/share/man/man1/qemu-img.1.gz
+c5a13e87ba3bdceddf0f56a30b6f2c62  usr/share/man/man1/qemu-io.1.gz
+c944206ec41756b86d0ccba8b356b1ab  usr/share/man/man8/qemu-make-debian-root.8.gz
+43e2a37f6ac66ff633e16c2acea014a8  usr/share/man/man8/qemu-nbd.8.gz

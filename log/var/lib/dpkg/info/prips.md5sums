@@ -1,0 +1,13 @@
+f828d2b280adb28c11620e3fc97e83dc  usr/bin/prips
+f13992b02c40015cfa2452d756fb0d53  usr/share/doc/prips/CONTRIBUTORS
+66f5b77227854829f6bdaee19510ca52  usr/share/doc/prips/NEWS.gz
+349db15ad5f3ffb7df6648a672ef248f  usr/share/doc/prips/README
+28e4346b136c938eccaff18fc82c03f3  usr/share/doc/prips/changelog.Debian.gz
+29b3bff47193f2daf84cdf84c64f020e  usr/share/doc/prips/copyright
+ede60d6328c368ec195b728145290e1b  usr/share/doc/prips/examples/tests/01-cidr.t
+21a9572d79f82e225b7c036e93ac058d  usr/share/doc/prips/examples/tests/02-range.t
+2c3221ee92d32cda0117b34ed15fe5f9  usr/share/doc/prips/examples/tests/03-skip.t
+f50fd707edfd68ef0545fd2e8b49ccf7  usr/share/doc/prips/examples/tests/04-format.t
+71f095cf1aa4a5db215135b964e6d923  usr/share/doc/prips/examples/tests/05-except.t
+092cee5170cc30d76d319382b027e463  usr/share/doc/prips/examples/tests/06-cidrize.t
+30f152d529a21a856f7d3ec15120c3ef  usr/share/man/man1/prips.1.gz

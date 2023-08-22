@@ -1,0 +1,21 @@
+#!/bin/sh
+set -e
+
+case "$1" in
+	remove|purge)
+		dpkg-trigger update-initramfs;;
+	*) exit 0;;
+esac
+
+# Automatically added by dh_installinitramfs/12.9
+if [ "$1" = "remove" ]; then
+	if [ -x /usr/sbin/update-initramfs ] && [ -e /etc/initramfs-tools/initramfs.conf ]; then
+		update-initramfs -u
+	fi
+fi
+# End automatically added section
+
+exit 0
+
+# vi: ts=4 noexpandtab
+

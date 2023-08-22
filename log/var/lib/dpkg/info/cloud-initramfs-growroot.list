@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/cloud-initramfs-growroot
+/usr/share/doc/cloud-initramfs-growroot/changelog.gz
+/usr/share/doc/cloud-initramfs-growroot/copyright
+/usr/share/initramfs-tools
+/usr/share/initramfs-tools/hooks
+/usr/share/initramfs-tools/hooks/growroot
+/usr/share/initramfs-tools/scripts
+/usr/share/initramfs-tools/scripts/local-bottom
+/usr/share/initramfs-tools/scripts/local-bottom/growroot

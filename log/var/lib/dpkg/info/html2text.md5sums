@@ -1,0 +1,15 @@
+baa5d51d39febf6c2d2b2a5a1cfe5e6c  usr/bin/html2text
+f8fdac2941345bda8f05071848d45db8  usr/lib/mime/packages/html2text
+9e9accda1ef2129d66eef77fb56486b0  usr/share/doc/html2text/CREDITS
+b82c4ac75ba69f28bf95ff1d0b95bc97  usr/share/doc/html2text/KNOWN_BUGS
+7961c80e7f8920c9f42efa163edab5f4  usr/share/doc/html2text/NEWS.Debian.gz
+d6319e46a1f0a643d6c3309b0ebdb452  usr/share/doc/html2text/README.Debian
+5e7c61a3451262bdd9636fb702b80d52  usr/share/doc/html2text/README.gz
+1d3a650cd36ba436888a47e4f1aa5af6  usr/share/doc/html2text/TODO
+306b82a05fc263aa5f12e7dedaa98464  usr/share/doc/html2text/ascii.substitutes
+e7f5542c8acd76a6ba055029a1d9b8c8  usr/share/doc/html2text/changelog.Debian.gz
+bc4c9e550bdccada00bd877b8730c1fc  usr/share/doc/html2text/changelog.gz
+979e6e3317df15190053ba3722e16c57  usr/share/doc/html2text/copyright
+aa8eba665b19803e322643c2f28a767c  usr/share/doc/html2text/examples/pretty.style
+fe1b2c02c934ff148e037bd70f380764  usr/share/man/man1/html2text.1.gz
+048810f19a4a4ed383e0f4ea7c4c0a92  usr/share/man/man5/html2textrc.5.gz

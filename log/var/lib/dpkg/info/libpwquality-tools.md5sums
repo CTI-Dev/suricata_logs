@@ -1,0 +1,7 @@
+a2da96d02024accdf6dd93a3728a7d73  usr/bin/pwmake
+814a20d3e5990a593add86679ca63931  usr/bin/pwscore
+b149c95c5bc464e3853fa5ad49c43372  usr/share/doc/libpwquality-tools/changelog.Debian.gz
+edbb3625f5c9243a70b06102d3133dae  usr/share/doc/libpwquality-tools/changelog.gz
+8c87862face413887178d7f782e53d39  usr/share/doc/libpwquality-tools/copyright
+963aa90a450e396acb783bef5286c7c3  usr/share/man/man1/pwmake.1.gz
+06ca50d135f4f3b737791cd01ad49ddb  usr/share/man/man1/pwscore.1.gz

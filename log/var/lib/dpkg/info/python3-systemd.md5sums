@@ -1,0 +1,15 @@
+db1b34c6aa8a73063c6f01740bb26068  usr/lib/python3/dist-packages/systemd/__init__.py
+5463f178e47a5c6afaaaa67f43f3c7c7  usr/lib/python3/dist-packages/systemd/_daemon.cpython-39-x86_64-linux-gnu.so
+af978c2d31b0cf6a34fabc445a345148  usr/lib/python3/dist-packages/systemd/_journal.cpython-39-x86_64-linux-gnu.so
+53cb67af95acae9a2019926834848166  usr/lib/python3/dist-packages/systemd/_reader.cpython-39-x86_64-linux-gnu.so
+e32d904150c4783a2285e209e325263d  usr/lib/python3/dist-packages/systemd/daemon.py
+104adb9c64a19daaee0cef34fe34c47c  usr/lib/python3/dist-packages/systemd/id128.cpython-39-x86_64-linux-gnu.so
+9996128cc35251cbcfd2892b2a1de50a  usr/lib/python3/dist-packages/systemd/journal.py
+47b633e9f345ed692508063ce5e2bd53  usr/lib/python3/dist-packages/systemd/login.cpython-39-x86_64-linux-gnu.so
+e13a9fb98205296e6496f7b967850e20  usr/lib/python3/dist-packages/systemd/test/test_daemon.py
+288e98dcb83826fb05334775bee10c4b  usr/lib/python3/dist-packages/systemd/test/test_journal.py
+ba25d9866cf3fd4b3b1ad3cc8b642b42  usr/lib/python3/dist-packages/systemd/test/test_login.py
+dbdc60c038e85df6e6dc5410c174471d  usr/lib/python3/dist-packages/systemd_python-234.egg-info
+20d3ce081bec9ee3f3cdbda378a5896e  usr/share/doc/python3-systemd/changelog.Debian.amd64.gz
+a45270ab233ad1dc494987027609c9c6  usr/share/doc/python3-systemd/changelog.Debian.gz
+dce7fb82b063b751b2c137b3eb2148b4  usr/share/doc/python3-systemd/copyright

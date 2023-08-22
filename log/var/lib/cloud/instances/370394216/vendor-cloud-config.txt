@@ -1,0 +1,28 @@
+#cloud-config
+
+# from 1 files
+# cloud-config
+
+---
+disable_root: false
+manage_etc_hosts: true
+ssh_pwauth: true
+system_info:
+    default_user:
+        lock_passwd: false
+        name: root
+        shell: /bin/bash
+    distro: debian
+    package_mirrors:
+    -   arches:
+        - i386
+        - amd64
+        failsafe:
+            primary: http://mirrors.digitalocean.com/debian
+            security: http://security.debian.org
+    paths:
+        cloud_dir: /var/lib/cloud/
+        templates_dir: /etc/cloud/templates/
+        upstart_dir: /etc/init/
+    ssh_svcname: ssh
+...
